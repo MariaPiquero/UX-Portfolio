@@ -1,0 +1,81 @@
+header{
+    margin: 0 8vw 0 8vw;
+}
+
+h1{
+    text-align: left;
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 2vh;
+}
+
+h5{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 22px;
+    margin-bottom: 1vh;}
+
+p{
+    margin-bottom: 1vh;
+    font-size: 16px;
+    line-height: 18px;
+}
+.textoproyecto{
+    width: 46vw;
+}
+.detallesproyecto{
+    display: flex;
+    justify-content: space-between;
+}
+#herramientas{
+    margin:0 0;
+}
+.introproyecto{
+    margin: 0 8vw 0 8vw;
+    display:flex;
+    justify-content: space-between;
+    align-items:flex-start;
+}
+.imagen1{
+    width: 40vw;
+}
+.color{
+    height: 60vh;
+    background-color: #1C1E52;
+    padding: 10vh 8vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.porcentaje{
+    color:white;
+    font-size: 165px;
+    line-height: 166px;
+    font-weight: bold;
+}
+.loquesea{
+    color:white;
+    font-size: 66px;
+}
+.textoresearch{
+    color: white;
+    font-size: 20px;
+    line-height: 23px;
+    width:50vw;
+   
+}
+.textocentro{
+    text-align: center;
+    font-size: 20px;
+    padding: 10vh 23vw;
+}
+.lineaimg1{
+    padding-right: 10vh 0;
+    display: flex;
+}
+.img1{
+    width: 20vw;
+}
