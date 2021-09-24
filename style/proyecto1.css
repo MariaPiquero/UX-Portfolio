@@ -73,8 +73,9 @@ p{
     padding: 10vh 23vw;
 }
 .lineaimg1{
-    padding-right: 10vh 0;
+    margin: 10vh 8vw;
     display: flex;
+    justify-content: space-between;
 }
 .img1{
     width: 20vw;
